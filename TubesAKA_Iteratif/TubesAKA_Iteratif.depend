@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735199730 source:c:\users\faiz nawfal zulfiqar\documents\aka\tubesaka_iteratif\mobilelegends.cpp
+	<iostream>
+	"mobileLegends.h"
+
+1735199715 c:\users\faiz nawfal zulfiqar\documents\aka\tubesaka_iteratif\mobilelegends.h
+
+1735199715 source:c:\users\faiz nawfal zulfiqar\documents\aka\tubesaka_iteratif\main.cpp
+	<iostream>
+	"mobileLegends.h"
+

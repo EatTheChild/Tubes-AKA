@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735125274 source:c:\users\faiz nawfal zulfiqar\documents\aka\tubesaka_rekursif\main.cpp
+	<iostream>
+	"mobileLegends.h"
+
+1735114563 c:\users\faiz nawfal zulfiqar\documents\aka\tubesaka_rekursif\mobilelegends.h
+
+1735200394 source:c:\users\faiz nawfal zulfiqar\documents\aka\tubesaka_rekursif\mobilelegends.cpp
+	<iostream>
+	"mobileLegends.h"
+
